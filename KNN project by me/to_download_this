@@ -1,0 +1,3 @@
+To download this folder you can just follow this commend in (ubuntu): 
+svn export https://github.com/ebrahimkhaled/Projects-of-Python/trunk/KNN%20project%20by%20me
+then check it in your HOME folder.
